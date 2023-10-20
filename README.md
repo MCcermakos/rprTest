@@ -1,4 +1,4 @@
-# Testovaví repozitář do RPR
+# Testovací repozitář do RPR
 Lorem ipsum.
 
 ## Testing repository.
